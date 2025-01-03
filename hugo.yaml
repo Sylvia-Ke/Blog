@@ -1,7 +1,8 @@
 baseURL: ""
 languageCode: en-us
 title: My Blog
-theme: "paperMod"
+theme: "PaperMod"
+
 
 enableRobotsTXT: true
 buildDrafts: false
